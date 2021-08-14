@@ -1,2 +1,8 @@
 # GRIP_AUGUST_2021
-Prediction using supervised Machine Learning ( Simple Linaer Regression )
+Predict the percentage of an student based on the no. of study hours.
+This is a simple linear regression task as it involves just 2 variables.
+
+Tools used :
+Programming Language: Python
+IDE: Google Colab
+Libraries: Pandas, Matplotlib, Numpy, Sklearn
